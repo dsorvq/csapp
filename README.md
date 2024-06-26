@@ -18,3 +18,6 @@ Includes only problems that require coding
 |[67 int_size_is_32](2-representing-manipulating-information/int_size_is_32.c)                                   |* *       |
 |[68 lower_one_mask](2-representing-manipulating-information/lower_one_mask.c)                                   |* *       |
 |[69 rotate_left_shift](2-representing-manipulating-information/rotate_left_shift.c)                             |* * *     |
+|[70 fits_bits](2-representing-manipulating-information/fits_bits.c)                                             |* *       |
+|[71 xbyte](2-representing-manipulating-information/xbyte.c)                                                     |*         |
+|[72 copy_int](2-representing-manipulating-information/coyp_int.c)                                               |* *       |
